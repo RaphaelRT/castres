@@ -1,0 +1,24 @@
+{
+  "name": "castres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "minify": "gulp minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelRT/castres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelRT/castres/issues"
+  },
+  "homepage": "https://github.com/RaphaelRT/castres#readme",
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.0.1",
+    "gulp": "^4.0.2"
+  }
+}
