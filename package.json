@@ -1,24 +1,23 @@
 {
-  "name": "castres",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "gulp": "gulp",
-    "minify": "gulp minify"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RaphaelRT/castres.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RaphaelRT/castres/issues"
-  },
-  "homepage": "https://github.com/RaphaelRT/castres#readme",
-  "devDependencies": {
-    "eslint-config-airbnb": "^18.0.1",
-    "gulp": "^4.0.2"
-  }
+    "name": "for-the-promo",
+    "version": "0.1.0",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "core-js": "^2.6.5",
+        "register-service-worker": "^1.6.2",
+        "vue": "^2.6.10",
+        "vue-router": "^3.0.3"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^3.12.0",
+        "@vue/cli-plugin-pwa": "^3.12.0",
+        "@vue/cli-service": "^3.12.0",
+        "leaflet": "^1.5.1",
+        "node-sass": "^4.12.0",
+        "sass-loader": "^8.0.0",
+        "vue-template-compiler": "^2.6.10"
+    }
 }

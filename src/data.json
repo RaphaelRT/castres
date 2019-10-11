@@ -1,0 +1,326 @@
+{
+    "name": "MA SUPER VILLE",
+    "logo": {
+        "src": "logo.png",
+        "alt": "logo"
+    },
+    "colors": {
+        "basicColor": "#333333",
+        "lightColor": "#acacac",
+        "accentColor": "#3373c3"
+    },
+    "dashboard": {
+        "firstTitle": {
+            "mainTitle": {
+                "fr": "Alert inondation !",
+                "en": "Flooding alert !"
+            },
+            "lightTitle": {
+                "fr": "Consultez la carte :",
+                "en": "Refer to the map :"
+            }
+        },
+        "map": {
+            "townLatLng": [43.80478427040863, 4.658995550125838],
+            "initialZoom": 15,
+            "incidentLatLngs": [
+                {
+                    "type": "flooding",
+                    "latLng": [43.80469988345253, 4.654105799272656]
+                },
+                {
+                    "type": "shelter",
+                    "latLng": [43.807666270493506, 4.65872519183904]
+                },
+                {
+                    "type": "electricity",
+                    "latLng": [43.801295813881225, 4.654786158353091]
+                },
+                {
+                    "type": "worksite",
+                    "latLng": [43.80329880059163, 4.660112857818604]
+                },
+                {
+                    "type": "industry",
+                    "latLng": [43.79167915126339, 4.656938128173352]
+                }
+            ]
+        },
+        "secondTitle": {
+            "mainTitle": {
+                "fr": "Conseil en cas",
+                "en": "Advice in case"
+            },
+            "lightTitle": {
+                "fr": "de crise majeur :",
+                "en": "of major crisis :"
+            }
+        },
+        "cards": [
+            {
+                "img": "window.svg",
+                "title": {
+                    "fr": "Fermez portes, fenêtres et aérations.",
+                    "en": "Close doors, windows and vents."
+                }
+            },
+            {
+                "img": "electricity.svg",
+                "title": {
+                    "fr": "Coupez le gaz et l’électricité",
+                    "en": "Turn off the gas and electricity"
+                }
+            },
+            {
+                "img": "water.svg",
+                "title": {
+                    "fr": "Prévoillez une réserve d’eau potable et des lampes de secours.",
+                    "en": "Provide a supply of drinking water and emergency lamps."
+                }
+            },
+            {
+                "img": "school.svg",
+                "title": {
+                    "fr": "N’allez pas chercher votre enfant à l’école.",
+                    "en": "Do not pick up your child from school."
+                }
+            },
+            {
+                "img": "person.svg",
+                "title": {
+                    "fr": "Évitez les déplacements inutiles",
+                    "en": "Avoid unnecessary travel"
+                }
+            },
+            {
+                "img": "radio.svg",
+                "title": {
+                    "fr": "Essayez de vous informer à l’aide des radios locales",
+                    "en": "Try to find out with the help of local radio stations"
+                }
+            }
+        ],
+        "thirdTitle": {
+            "mainTitle": {
+                "fr": "Informations utiles",
+                "en": "Useful informations"
+            },
+            "lightTitle": {
+                "fr": "Documents consultables :",
+                "en": "Documents available for consultation :"
+            }
+        },
+        "documents": {
+            "paragraph": {
+                "fr": "Les documents suivant sont consultables en Mairie, à la Police Municipale, et au Centre Technique de la ville.",
+                "en": "The following documents can be consulted in the Town Hall, the Municipal Police, and the Technical Centre of the city."
+            },
+            "lists": [
+                {
+                    "fr": "Dossier départemental des risques majeurs (DDRM), établi par le préfet décrit l’ensemble des risques majeurs auxquels chacune des communes des Bouches-du Rhône est exposée.",
+                    "en": "Departmental file of major risks (DDRM), drawn up by the prefect describes all the major risks to which each of the communes of the Bouches-du-Rhône is exposed."
+                },
+                {
+                    "fr": "Cartes et études traitant des risques majeurs annexées au document d’urbanisme.",
+                    "en": "Maps and studies dealing with major risks annexed to the urban planning document."
+                },
+                {
+                    "fr": "Plan communal de sauvegarde (PCS).",
+                    "en": "Municipal Safeguard Plan (MSP)."
+                }
+            ],
+            "document": {
+                "fr": "Le document d’information communal sur les risques majeurs (DICRIM), est également consultable ici :",
+                "en": "The municipal information document on major risks (DICRIM) can also be consulted here :"
+            }
+        },
+        "fourthTitle": {
+            "mainTitle": {
+                "fr": "Signalez",
+                "en": "Signal"
+            },
+            "lightTitle": {
+                "fr": "un incident :",
+                "en": "an incident :"
+            }
+        },
+        "form": {
+            "firstInput": {
+                "fr": "Sujet",
+                "en": "Subject"
+            },
+            "secondInput": {
+                "fr": "Nom",
+                "en": "Name"
+            },
+            "thirdInput": {
+                "fr": "Téléphone",
+                "en": "Phone"
+            },
+            "fourthInput": {
+                "fr": "Message",
+                "en": "Message"
+            }
+        }
+    },
+    "alert": {
+        "firstTitle": {
+            "mainTitle": {
+                "fr": "Les médias",
+                "en": "Media"
+            },
+            "lightTitle": {
+                "fr": "à suive :",
+                "en": "to follow :"
+            }
+        },
+        "medias": [
+            {
+                "image": {
+                    "src": "logo.png",
+                    "alt": "super média"
+                },
+                "link": "https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+            },
+            {
+                "image": {
+                    "src": "logo.png",
+                    "alt": "super média"
+                },
+                "link": "https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+            }
+        ],
+        "secondTitle": {
+            "mainTitle": {
+                "fr": "Alerte inondation !",
+                "en": "Flood alert!"
+            },
+            "lightTitle": {
+                "fr": "Historique :",
+                "en": "History :"
+            }
+        },
+        "historic": [
+            {
+                "date": {
+                    "hour": "20h30",
+                    "day": "09",
+                    "month": "10"
+                },
+                "text": {
+                    "fr": "Les petites annonces sont généralement le premier endroit auquel vous pensez lorsque vous vous préparez à faire un achat. Que vous souhaitiez acheter un véhicule, un lit ou un animal domestique",
+                    "en": "Classifieds are usually the first place you think of when you are getting ready to make a purchase. Whether you want to purchase a vehicle, bed, or pet"
+                },
+                "link": "https://www.youtube.com/watch?v=pRpeEdMmmQ0",
+                "image": {
+                    "src": "logo.png",
+                    "alt": "Image test"
+                }
+            },
+            {
+                "date": {
+                    "hour": "20h30",
+                    "day": "09",
+                    "month": "10"
+                },
+                "text": {
+                    "fr": "Les petites annonces sont généralement le premier endroit auquel vous pensez lorsque vous vous préparez à faire un achat. Que vous souhaitiez acheter un véhicule, un lit ou un animal domestique",
+                    "en": "Classifieds are usually the first place you think of when you are getting ready to make a purchase. Whether you want to purchase a vehicle, bed, or pet"
+                },
+                "link": "https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+            }
+        ]
+    },
+    "danger": {
+        "firstTitle": {
+            "mainTitle": {
+                "fr": "Les risques",
+                "en": "Majors"
+            },
+            "lightTitle": {
+                "fr": "majeurs :",
+                "en": "risks :"
+            }
+        },
+        "cards": [
+            {
+                "img": "flooding.svg",
+                "title": {
+                    "fr": "Innondations",
+                    "en": "Floodings"
+                }
+            },
+            {
+                "img": "earthquake.svg",
+                "title": {
+                    "fr": "Seismes",
+                    "en": "Earthquakes"
+                }
+            },
+            {
+                "img": "fire.svg",
+                "title": {
+                    "fr": "Feux de forêt",
+                    "en": "Forest fires"
+                }
+            },
+            {
+                "img": "hazard.svg",
+                "title": {
+                    "fr": "Matières dangereuses",
+                    "en": "Hazardous materials"
+                }
+            },
+            {
+                "img": "industry.svg",
+                "title": {
+                    "fr": "Accident industriel",
+                    "en": "Industrial accident"
+                }
+            },
+            {
+                "img": "heat.svg",
+                "title": {
+                    "fr": "Canicule",
+                    "en": "Heatwave"
+                }
+            }
+        ],
+        "service": {
+            "text": {
+                "fr": "Vous pouvez vous inscrire au service “Viappel!”, afin de vous tenir au courant le plus rapidement possible, si vous êtes concernés par un événement.",
+                "en": "You can register for the \"Viappel!\" service, in order to stay informed as soon as possible, if you are concerned by an event."
+            },
+            "button": "S’inscrire sur Viappel"
+        }
+    },
+    "footer": {
+        "logo": {
+            "src": "logo.png",
+            "alt": "logo"
+        },
+        "contacts": [
+            {
+                "link": "https://mescouilles.fr",
+                "image": {
+                    "src": "/img/social_icons/facebook.svg",
+                    "alt": "Image test"
+                }
+            },
+            {
+                "link": "https://mescouilles.fr",
+                "image": {
+                    "src": "/img/social_icons/twitter.svg",
+                    "alt": "Image test"
+                }
+            },
+            {
+                "link": "https://mescouilles.fr",
+                "image": {
+                    "src": "/img/social_icons/phone.svg",
+                    "alt": "Image test"
+                }
+            }
+        ]
+    }
+}
