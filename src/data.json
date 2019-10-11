@@ -312,21 +312,21 @@
         },
         "contacts": [
             {
-                "link": "https://mescouilles.fr",
+                "link": "https://www.facebook.com/villedecastres/",
                 "image": {
                     "src": "/img/social_icons/facebook.svg",
                     "alt": "Image test"
                 }
             },
             {
-                "link": "https://mescouilles.fr",
+                "link": "https://twitter.com/VilledeCastres",
                 "image": {
                     "src": "/img/social_icons/twitter.svg",
                     "alt": "Image test"
                 }
             },
             {
-                "link": "https://mescouilles.fr",
+                "link": "0563715858",
                 "image": {
                     "src": "/img/social_icons/phone.svg",
                     "alt": "Image test"
