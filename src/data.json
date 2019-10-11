@@ -182,16 +182,23 @@
             {
                 "image": {
                     "src": "logo.png",
-                    "alt": "super média"
+                    "alt": "Le site officiel de Castres"
                 },
-                "link": "https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+                "link": "http://www.ville-castres.fr/"
             },
             {
                 "image": {
-                    "src": "logo.png",
-                    "alt": "super média"
+                    "src": "rtl.png",
+                    "alt": "radio"
                 },
-                "link": "https://www.youtube.com/watch?v=pRpeEdMmmQ0"
+                "link": "https://www.rtl.fr/direct"
+            },
+            {
+                "image": {
+                    "src": "journal.png",
+                    "alt": "journal"
+                },
+                "link": "https://www.lejournaldici.com/"
             }
         ],
         "secondTitle": {

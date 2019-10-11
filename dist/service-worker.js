@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bd297947972fb499c519915805c0fb9c.js"
+  "/precache-manifest.eaee5196aa16cd761ef2be1c9059e3ee.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "for-the-promo"});
