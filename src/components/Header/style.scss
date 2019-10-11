@@ -1,0 +1,21 @@
+.header-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 1.5rem 0;
+    border-bottom: 0.5px solid #dddddd;
+    background: #ffffff;
+    z-index: 999;
+
+    .logo-container {
+        height: 3.2rem;
+
+        .logo {
+            height: 100%;
+        }
+    }
+}

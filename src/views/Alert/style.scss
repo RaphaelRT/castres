@@ -1,0 +1,32 @@
+.alert-page-container {
+    width: 100%;
+
+    .media-container {
+        width: 100%;
+        padding: 2rem 1.5rem;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+
+        .media-list {
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+
+            .media-item {
+                height: 4.5rem;
+
+                .item-image {
+                    height: 100%;
+                }
+            }
+        }
+    }
+
+    .timeline-container {
+        .bloc-title {
+            padding: 2rem 1.5rem 0;
+        }
+    }
+}
